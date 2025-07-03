@@ -1,4 +1,4 @@
-from art import logo  # Make sure you have art.py with a variable 'logo'
+from art import logo 
 
 def add(n1, n2):
     return n1 + n2
